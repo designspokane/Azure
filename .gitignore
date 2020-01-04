@@ -4,3 +4,5 @@
 
 /.vs
 /Speech2Text/.vs/Speech2Text
+/Speech2Text/Speech2Text/bin/
+/Speech2Text/Speech2Text/obj
